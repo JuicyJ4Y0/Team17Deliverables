@@ -8,20 +8,21 @@ After re-evaluating the project and receiving feedback, we realized the importan
 * **Worker Task Management**: Improving the assignment and tracking of daily tasks performed by farm workers to ensure accountability and efficient operations.
 * **Harvest Inventory Tracking**: Introducing a system to log and manage harvested crop quantities for better oversight and future planning.
 
-Currently, many small to medium-sized farms still rely on paper-based or Excel-driven systems, which make it difficult to track crop progress, inventory, and worker performance effectively. This results in issues such as:
+Currently, (many small to medium-sized) farms still rely on paper-based or Excel-driven systems, which make it difficult to track crop progress, inventory, and worker performance effectively. This results in issues such as:
 
 * **Soil degradation** due to poor rotation tracking
-* **Low task transparency**, leading to inefficiencies in daily operations
 * **Untracked or misreported harvest yields**, affecting sales and long-term planning
-* **Delayed reporting**, leaving stakeholders without timely insights
+* **Delayed reporting**, as papers are tangible to get missing, lost or damaged
 
-Our revised problem statement focuses on solving these specific issues with a scalable and targeted solution.
 
 ---
 
 ## **1.2 Proposed Solution**
 
 The revised Agricultural Management System will focus specifically on **Crop Rotation Management**, **Worker Task Tracking**, and **Harvest Inventory Logging**, three essential features that together improve operational efficiency and long-term sustainability.
+### **User management system**
+
+Stays the same as before, the only thing that have changed is the role of person in-charger (From Admin to Manager)
 
 ### **1. Crop Rotation Management**
 
@@ -42,7 +43,7 @@ The system will include a simple interface where farm workers and managers can:
 * Log daily tasks (e.g., watering, harvesting)
 * Task should be derived from the Field details (i.e., crop irrigation having intervals of 3 days, or when fertilizer is needed)
 * Record task completion status and time spent
-* Assign tasks to individuals or teams
+* Assign individuals or teams to Fields
 * Generate reports on workforce activity and productivity
 
 This will enhance task accountability and allow for better use of human resources on the farm.
