@@ -14,7 +14,6 @@ Currently, (many small to medium-sized) farms still rely on paper-based or Excel
 * **Untracked or misreported harvest yields**, affecting sales and long-term planning
 * **Delayed reporting**, as papers are tangible to get missing, lost or damaged
 
-
 ---
 
 ## **1.2 Proposed Solution**
