@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="8EAtuuFN8qFxOkvctxhg">
-    <mxGraphModel dx="1723" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1893" dy="2276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,39 +86,7 @@
           <mxGeometry x="4130" y="1179.5" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6KfqUc2jtIFRs5x4OwVa-50" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;div&gt;Farm server&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3195.5" y="654.5" width="115" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-87" value="«Components»&lt;br&gt;&lt;b&gt;Schedule Database&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="780" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-88" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="6KfqUc2jtIFRs5x4OwVa-87" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-89" value="«Component»&lt;br&gt;&lt;b&gt;User Database&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="685" width="192" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-90" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="6KfqUc2jtIFRs5x4OwVa-89" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-91" value="«Component»&lt;br&gt;&lt;b&gt;Crop Database&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="890" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-92" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="6KfqUc2jtIFRs5x4OwVa-91" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-93" value="«Components»&lt;div&gt;&lt;b&gt;preCrop Gestation Database&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="1010" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="6KfqUc2jtIFRs5x4OwVa-94" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="6KfqUc2jtIFRs5x4OwVa-93" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="3225" y="654.5" width="115" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6KfqUc2jtIFRs5x4OwVa-102" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
           <mxGeometry x="2376" y="480" width="10" height="10" as="geometry" />
@@ -160,18 +128,10 @@
           <mxGeometry x="4025" y="920" width="290" height="240" as="geometry" />
         </mxCell>
         <mxCell id="OrcsEcIXb9L-_ybgIJPj-17" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;User_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="685" width="210" height="100" as="geometry" />
+          <mxGeometry x="3511" y="721" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OrcsEcIXb9L-_ybgIJPj-18" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Scheduling_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="830" width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="OrcsEcIXb9L-_ybgIJPj-23" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Backend Service&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3192.5" y="840" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="OrcsEcIXb9L-_ybgIJPj-24" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="OrcsEcIXb9L-_ybgIJPj-23" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-24" y="4" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="2820" y="1105.5" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OrcsEcIXb9L-_ybgIJPj-25" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;U&lt;/span&gt;ser Management Subsystem" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1540" y="-290" width="865" height="490" as="geometry" />
@@ -372,22 +332,11 @@
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oytD9x-hvFilYK9OB1zf-25" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;preCropGestation_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="1095.5" width="210" height="94.5" as="geometry" />
+        <mxCell id="oytD9x-hvFilYK9OB1zf-25" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Harvestation_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="3511" y="1105.5" width="210" height="94.5" as="geometry" />
         </mxCell>
         <mxCell id="oytD9x-hvFilYK9OB1zf-26" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Crop_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3520" y="960" width="210" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="oytD9x-hvFilYK9OB1zf-27" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Harvestation_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3187.5" y="1147.5" width="190" height="94.5" as="geometry" />
-        </mxCell>
-        <mxCell id="oytD9x-hvFilYK9OB1zf-28" value="«Components»&lt;div&gt;&lt;b&gt;Harvestation Database&lt;/b&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2830" y="1147.5" width="190" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="oytD9x-hvFilYK9OB1zf-29" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="oytD9x-hvFilYK9OB1zf-28" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="3165" y="890" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oytD9x-hvFilYK9OB1zf-31" value="" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" parent="1" vertex="1">
           <mxGeometry x="3255" y="440" width="30" height="30" as="geometry" />
@@ -458,11 +407,6 @@
               <mxPoint x="2660" y="1030" />
               <mxPoint x="2650" y="55" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oytD9x-hvFilYK9OB1zf-55" value="HTTPS over TCP/IP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oytD9x-hvFilYK9OB1zf-54" vertex="1" connectable="0">
-          <mxGeometry x="0.2508" y="-4" relative="1" as="geometry">
-            <mxPoint x="123" y="-56" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oytD9x-hvFilYK9OB1zf-56" value="Bluetooth/Wi-Fi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="oytD9x-hvFilYK9OB1zf-54" vertex="1" connectable="0">
@@ -539,13 +483,16 @@
         <mxCell id="oytD9x-hvFilYK9OB1zf-87" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="-55" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="P72hzdrngbkzcoBWi2H2-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;Manager checks records&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="P72hzdrngbkzcoBWi2H2-1" value="&lt;p style=&quot;margin:0px;margin-top:6px;text-align:center;&quot;&gt;&lt;b&gt;Component&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;text-align: center; margin: 0px 0px 0px 8px;&quot;&gt;Manager checks records&lt;/p&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="766" y="1085.5" width="160" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="P72hzdrngbkzcoBWi2H2-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="P72hzdrngbkzcoBWi2H2-1">
+        <mxCell id="P72hzdrngbkzcoBWi2H2-2" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="P72hzdrngbkzcoBWi2H2-1" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-24" y="4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OorylEE7oP0-UyonpcX3-2" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;preCropGestation_Controller&lt;/b&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2820" y="706.5" width="210" height="94.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
